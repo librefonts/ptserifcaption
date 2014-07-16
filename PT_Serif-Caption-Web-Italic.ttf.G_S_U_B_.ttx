@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="6"/>
+            <FeatureIndex index="2" value="12"/>
+            <FeatureIndex index="3" value="18"/>
+            <FeatureIndex index="4" value="28"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=2 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="BSH "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=6 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="7"/>
+              <FeatureIndex index="2" value="13"/>
+              <FeatureIndex index="3" value="19"/>
+              <FeatureIndex index="4" value="24"/>
+              <FeatureIndex index="5" value="29"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="CHU "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=6 -->
+              <FeatureIndex index="0" value="2"/>
+              <FeatureIndex index="1" value="8"/>
+              <FeatureIndex index="2" value="14"/>
+              <FeatureIndex index="3" value="20"/>
+              <FeatureIndex index="4" value="25"/>
+              <FeatureIndex index="5" value="30"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="3"/>
+            <FeatureIndex index="1" value="9"/>
+            <FeatureIndex index="2" value="15"/>
+            <FeatureIndex index="3" value="21"/>
+            <FeatureIndex index="4" value="31"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=2 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=6 -->
+              <FeatureIndex index="0" value="4"/>
+              <FeatureIndex index="1" value="10"/>
+              <FeatureIndex index="2" value="16"/>
+              <FeatureIndex index="3" value="22"/>
+              <FeatureIndex index="4" value="26"/>
+              <FeatureIndex index="5" value="32"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=6 -->
+              <FeatureIndex index="0" value="5"/>
+              <FeatureIndex index="1" value="11"/>
+              <FeatureIndex index="2" value="17"/>
+              <FeatureIndex index="3" value="23"/>
+              <FeatureIndex index="4" value="27"/>
+              <FeatureIndex index="5" value="33"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=34 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="22">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="23">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="24">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="25">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="26">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="28">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="29">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="30">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="31">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="32">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="33">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=12 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="Tcedilla" out="Tcommaaccent"/>
+          <Substitution in="afii10055" out="afii10055.alt"/>
+          <Substitution in="afii10103" out="afii10103.alt"/>
+          <Substitution in="caron" out="caron.l"/>
+          <Substitution in="one" out="one.numerator"/>
+          <Substitution in="quotedbl" out="uniF635"/>
+          <Substitution in="quotedblleft" out="uniF62E"/>
+          <Substitution in="quotedblright" out="uniF62F"/>
+          <Substitution in="quoteleft" out="uniF62C"/>
+          <Substitution in="quoteright" out="uniF62D"/>
+          <Substitution in="quotesingle" out="uniF634"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="tcedilla" out="tcommaaccent"/>
+          <Substitution in="uni0492" out="uni0492.alt"/>
+          <Substitution in="uni0493" out="uni0493.alt"/>
+          <Substitution in="uni0498" out="uni0498.alt"/>
+          <Substitution in="uni0499" out="uni0499.alt"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="uni04AA">
+            <Alternate glyph="uni04AA.alt"/>
+            <Alternate glyph="uni04AA.alt02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni04AB">
+            <Alternate glyph="uni04AB.alt"/>
+            <Alternate glyph="uni04AB.alt02"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="U"/>
+            <Glyph value="V"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="Z"/>
+            <Glyph value="b"/>
+            <Glyph value="d"/>
+            <Glyph value="f"/>
+            <Glyph value="h"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Aring"/>
+            <Glyph value="AE"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="germandbls"/>
+            <Glyph value="eth"/>
+            <Glyph value="thorn"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="dcroat"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="Gcommaaccent"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="hcircumflex"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="hbar"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="Kcommaaccent"/>
+            <Glyph value="kcommaaccent"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="lacute"/>
+            <Glyph value="Lcommaaccent"/>
+            <Glyph value="lcommaaccent"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="lcaron"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="lslash"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="Ncommaaccent"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="OE"/>
+            <Glyph value="Racute"/>
+            <Glyph value="Rcommaaccent"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="Uring"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="longs"/>
+            <Glyph value="uni01F4"/>
+            <Glyph value="Scommaaccent"/>
+            <Glyph value="Tcommaaccent"/>
+            <Glyph value="afii10023"/>
+            <Glyph value="afii10051"/>
+            <Glyph value="afii10052"/>
+            <Glyph value="afii10053"/>
+            <Glyph value="afii10054"/>
+            <Glyph value="afii10055"/>
+            <Glyph value="afii10056"/>
+            <Glyph value="afii10057"/>
+            <Glyph value="afii10058"/>
+            <Glyph value="afii10059"/>
+            <Glyph value="afii10060"/>
+            <Glyph value="afii10061"/>
+            <Glyph value="afii10062"/>
+            <Glyph value="afii10145"/>
+            <Glyph value="afii10017"/>
+            <Glyph value="afii10018"/>
+            <Glyph value="afii10019"/>
+            <Glyph value="afii10020"/>
+            <Glyph value="afii10021"/>
+            <Glyph value="afii10022"/>
+            <Glyph value="afii10024"/>
+            <Glyph value="afii10025"/>
+            <Glyph value="afii10026"/>
+            <Glyph value="afii10027"/>
+            <Glyph value="afii10028"/>
+            <Glyph value="afii10029"/>
+            <Glyph value="afii10030"/>
+            <Glyph value="afii10031"/>
+            <Glyph value="afii10032"/>
+            <Glyph value="afii10033"/>
+            <Glyph value="afii10034"/>
+            <Glyph value="afii10035"/>
+            <Glyph value="afii10036"/>
+            <Glyph value="afii10037"/>
+            <Glyph value="afii10038"/>
+            <Glyph value="afii10039"/>
+            <Glyph value="afii10040"/>
+            <Glyph value="afii10041"/>
+            <Glyph value="afii10042"/>
+            <Glyph value="afii10043"/>
+            <Glyph value="afii10044"/>
+            <Glyph value="afii10045"/>
+            <Glyph value="afii10046"/>
+            <Glyph value="afii10047"/>
+            <Glyph value="afii10048"/>
+            <Glyph value="afii10049"/>
+            <Glyph value="afii10066"/>
+            <Glyph value="afii10086"/>
+            <Glyph value="afii10099"/>
+            <Glyph value="afii10108"/>
+            <Glyph value="afii10146"/>
+            <Glyph value="afii10194"/>
+            <Glyph value="afii10147"/>
+            <Glyph value="afii10148"/>
+            <Glyph value="uni048A"/>
+            <Glyph value="uni048C"/>
+            <Glyph value="uni048E"/>
+            <Glyph value="afii10050"/>
+            <Glyph value="uni0492"/>
+            <Glyph value="uni0494"/>
+            <Glyph value="uni0496"/>
+            <Glyph value="uni0498"/>
+            <Glyph value="uni049A"/>
+            <Glyph value="uni049C"/>
+            <Glyph value="uni049E"/>
+            <Glyph value="uni04A0"/>
+            <Glyph value="uni04A2"/>
+            <Glyph value="uni04A4"/>
+            <Glyph value="uni04A6"/>
+            <Glyph value="uni04A8"/>
+            <Glyph value="uni04AA"/>
+            <Glyph value="uni04AC"/>
+            <Glyph value="uni04AE"/>
+            <Glyph value="uni04B0"/>
+            <Glyph value="uni04B2"/>
+            <Glyph value="uni04B4"/>
+            <Glyph value="uni04B6"/>
+            <Glyph value="uni04B8"/>
+            <Glyph value="uni04BA"/>
+            <Glyph value="uni04BC"/>
+            <Glyph value="uni04BE"/>
+            <Glyph value="uni04C0"/>
+            <Glyph value="uni04C3"/>
+            <Glyph value="uni04C5"/>
+            <Glyph value="uni04C7"/>
+            <Glyph value="uni04C9"/>
+            <Glyph value="uni04CB"/>
+            <Glyph value="uni04CD"/>
+            <Glyph value="uni04D0"/>
+            <Glyph value="uni04D2"/>
+            <Glyph value="uni04D4"/>
+            <Glyph value="uni04D6"/>
+            <Glyph value="uni04D8"/>
+            <Glyph value="uni04DA"/>
+            <Glyph value="uni04DC"/>
+            <Glyph value="uni04DE"/>
+            <Glyph value="uni04E0"/>
+            <Glyph value="uni04E2"/>
+            <Glyph value="uni04E4"/>
+            <Glyph value="uni04E6"/>
+            <Glyph value="uni04E8"/>
+            <Glyph value="uni04EA"/>
+            <Glyph value="uni04EC"/>
+            <Glyph value="uni04EE"/>
+            <Glyph value="uni04F0"/>
+            <Glyph value="uni04F2"/>
+            <Glyph value="uni04F4"/>
+            <Glyph value="uni04F6"/>
+            <Glyph value="uni04F8"/>
+            <Glyph value="uni04FC"/>
+            <Glyph value="uni0510"/>
+            <Glyph value="uni0512"/>
+            <Glyph value="uni051C"/>
+            <Glyph value="uni0524"/>
+            <Glyph value="uni0526"/>
+            <Glyph value="uni1E30"/>
+            <Glyph value="uni1E31"/>
+            <Glyph value="uni1E3E"/>
+            <Glyph value="uni1E54"/>
+            <Glyph value="uni2C67"/>
+            <Glyph value="uni2C68"/>
+            <Glyph value="uniF486"/>
+            <Glyph value="uniF487"/>
+            <Glyph value="uniF488"/>
+            <Glyph value="uniF489"/>
+            <Glyph value="uniF49E"/>
+            <Glyph value="uniF4C6"/>
+            <Glyph value="uniF4CC"/>
+            <Glyph value="uniF4D6"/>
+            <Glyph value="uni0498.alt"/>
+            <Glyph value="uni0499.alt"/>
+            <Glyph value="uni04AA.alt02"/>
+            <Glyph value="uni04AB.alt02"/>
+            <Glyph value="uniF50E"/>
+            <Glyph value="uniF510"/>
+            <Glyph value="uniF512"/>
+            <Glyph value="uniF514"/>
+            <Glyph value="uniF516"/>
+            <Glyph value="uniF518"/>
+            <Glyph value="uniF51A"/>
+            <Glyph value="uniF51C"/>
+            <Glyph value="uniF51E"/>
+            <Glyph value="uniF520"/>
+            <Glyph value="uniF522"/>
+            <Glyph value="uniF524"/>
+            <Glyph value="uniF526"/>
+            <Glyph value="uniF528"/>
+            <Glyph value="uniF52A"/>
+            <Glyph value="uniF52C"/>
+            <Glyph value="uniF52E"/>
+            <Glyph value="uniF530"/>
+            <Glyph value="uniF532"/>
+            <Glyph value="uniF534"/>
+            <Glyph value="uniF536"/>
+            <Glyph value="uniF538"/>
+            <Glyph value="afii10055.alt"/>
+            <Glyph value="uni0492.alt"/>
+            <Glyph value="uni0493.alt"/>
+            <Glyph value="uni04AA.alt"/>
+            <Glyph value="uni04AB.alt"/>
+            <Glyph value="uniF540"/>
+            <Glyph value="uniF541"/>
+            <Glyph value="uniF542"/>
+            <Glyph value="uniF543"/>
+            <Glyph value="uniF544"/>
+            <Glyph value="uniF545"/>
+            <Glyph value="uniF546"/>
+            <Glyph value="uniF548"/>
+            <Glyph value="uniF54A"/>
+            <Glyph value="uniF54C"/>
+            <Glyph value="fi"/>
+            <Glyph value="fl"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="acutecomb"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="Tcedilla" out="Tcommaaccent"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="tcedilla" out="tcommaaccent"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="Tcedilla" out="Tcommaaccent"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="tcedilla" out="tcommaaccent"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0492" out="uni0492.alt"/>
+          <Substitution in="uni0493" out="uni0493.alt"/>
+          <Substitution in="uni0498" out="uni0498.alt"/>
+          <Substitution in="uni0499" out="uni0499.alt"/>
+          <Substitution in="uni04AA" out="uni04AA.alt"/>
+          <Substitution in="uni04AB" out="uni04AB.alt"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni04AA" out="uni04AA.alt02"/>
+          <Substitution in="uni04AB" out="uni04AB.alt02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="one">
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+            <Ligature components="fraction,two" glyph="onehalf"/>
+            <Ligature components="fraction,four" glyph="onequarter"/>
+            <Ligature components="uni2215,two" glyph="onehalf"/>
+            <Ligature components="uni2215,four" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="three">
+            <Ligature components="slash,four" glyph="threequarters"/>
+            <Ligature components="fraction,four" glyph="threequarters"/>
+            <Ligature components="uni2215,four" glyph="threequarters"/>
+          </LigatureSet>
+          <LigatureSet glyph="zero">
+            <Ligature components="slash,zero,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zero" glyph="perthousand"/>
+            <Ligature components="uni2215,zero,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero" glyph="percent"/>
+            <Ligature components="fraction,zero" glyph="percent"/>
+            <Ligature components="uni2215,zero" glyph="percent"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="l" glyph="fl"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="N">
+            <Ligature components="o" glyph="afii61352"/>
+            <Ligature components="ordmasculine" glyph="afii61352"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=4 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="a"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="o"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="period"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="a"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="period"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="o"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="acutecomb" out="uniF401"/>
+          <Substitution in="o" out="ordmasculine"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
